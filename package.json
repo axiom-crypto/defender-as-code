@@ -1,6 +1,6 @@
 {
-  "name": "@openzeppelin/defender-as-code",
-  "version": "2.6.0",
+  "name": "@axiom-crypto/defender-as-code",
+  "version": "2.6.0-internal",
   "description": "Configure your Defender environment via code",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
